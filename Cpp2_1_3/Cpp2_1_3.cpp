@@ -20,10 +20,10 @@ int main()
 	*/
 
 	/*
-	unsined int a = 11;은 데이터에 변환이 일어날 수도 있음
-	unsined int a = 11u;로 적어줄 것
+	unsigned int a = 11;은 데이터에 변환이 일어날 수도 있음
+	unsigned int a = 11u;로 적어줄 것
     long int longNum = 0L;로 적어줄 것 (long도 동일하게 해주면 된다)
 	L을 사용하는 이유는 l이 1과 헷갈릴 수 있기 때문임
-	unsined long long ulongLongNum = 0uLL or 0LLu 둘중 하나 사용
+	unsigned long long ulongLongNum = 0uLL or 0LLu 둘중 하나 사용
 	*/
 }
